@@ -138,4 +138,4 @@ This application is designed specifically for an academic university assignment:
 
 ## 🔗 GitHub Repository Placeholder
 
-- **Repository URL**: `[Your GitHub Repository URL Here]` *(Replace with your actual uploaded GitHub repository URL)*
+- **Repository URL**: https://github.com/kashiflaskani23-cmd/SmartScreens.git

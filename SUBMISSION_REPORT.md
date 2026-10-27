@@ -4,7 +4,7 @@
 **Student Name**: [Your Name Here]  
 **Student ID**: [Your Student ID Here]  
 **Submission Date**: [Insert Submission Date]  
-**GitHub Repository URL**: [Insert Your GitHub Repository URL Here]  
+**GitHub Repository URL**: https://github.com/kashiflaskani23-cmd/SmartScreens.git  
 
 ---
 
@@ -101,7 +101,7 @@ The goal of this assignment is to demonstrate foundational Android development c
 +-------------------------------------------------------------------------+
 ```
 
-- **Submitted GitHub Repository Link**: `[Paste your actual link here]`
+- **Submitted GitHub Repository Link**: https://github.com/kashiflaskani23-cmd/SmartScreens.git
 - **Repository Branch**: `main`
 
 ---
