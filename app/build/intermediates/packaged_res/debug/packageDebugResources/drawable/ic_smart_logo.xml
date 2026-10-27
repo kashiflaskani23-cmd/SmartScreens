@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Monitor Base & Stand -->
+    <path
+        android:fillColor="#3182CE"
+        android:pathData="M38,76 L58,76 A2,2 0 0,1 60,78 L64,86 A2,2 0 0,1 62,88 L34,88 A2,2 0 0,1 32,86 L36,78 A2,2 0 0,1 38,76 Z" />
+    <path
+        android:fillColor="#2B6CB0"
+        android:pathData="M44,68 L52,68 L52,78 L44,78 Z" />
+    <!-- Outer Screen Frame -->
+    <path
+        android:fillColor="#1A365D"
+        android:pathData="M16,14 L80,14 A8,8 0 0,1 88,22 L88,64 A8,8 0 0,1 80,72 L16,72 A8,8 0 0,1 8,64 L8,22 A8,8 0 0,1 16,14 Z" />
+    <!-- Inner Screen Area -->
+    <path
+        android:fillColor="#EBF8FF"
+        android:pathData="M16,20 L80,20 A4,4 0 0,1 84,24 L84,60 A4,4 0 0,1 80,64 L16,64 A4,4 0 0,1 12,60 L12,24 A4,4 0 0,1 16,20 Z" />
+    <!-- Screen Connected Nodes Graphic (Smart Feature) -->
+    <path
+        android:fillColor="#3182CE"
+        android:pathData="M28,42 A6,6 0 1,1 28,30 A6,6 0 1,1 28,42 Z" />
+    <path
+        android:fillColor="#38A169"
+        android:pathData="M68,36 A6,6 0 1,1 68,24 A6,6 0 1,1 68,36 Z" />
+    <path
+        android:fillColor="#805AD5"
+        android:pathData="M48,54 A6,6 0 1,1 48,42 A6,6 0 1,1 48,54 Z" />
+    <!-- Connecting Data Lines -->
+    <path
+        android:strokeColor="#4299E1"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M28,36 L48,48 L68,30" />
+</vector>

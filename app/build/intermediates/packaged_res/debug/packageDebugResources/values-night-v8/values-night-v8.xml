@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#90CDF4</color>
+    <color name="background">#121824</color>
+    <color name="card_background">#1F293D</color>
+    <color name="card_border">#2D3748</color>
+    <color name="divider">#2D3748</color>
+    <color name="error">#FC8181</color>
+    <color name="icon_history">#F6AD55</color>
+    <color name="icon_home">#63B3ED</color>
+    <color name="icon_profile">#68D391</color>
+    <color name="icon_tools">#B794F4</color>
+    <color name="primary">#2B6CB0</color>
+    <color name="primary_light">#4299E1</color>
+    <color name="primary_variant">#1A365D</color>
+    <color name="secondary">#63B3ED</color>
+    <color name="secondary_variant">#3182CE</color>
+    <color name="success">#68D391</color>
+    <color name="surface">#1A2234</color>
+    <color name="text_hint">#718096</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#F7FAFC</color>
+    <color name="text_secondary">#A0AEC0</color>
+    <color name="warning">#F6AD55</color>
+    <style name="Theme.SmartScreens" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/text_on_primary</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorBackground">@color/background</item>
+    </style>
+    <style name="Theme.SmartScreens.Splash" parent="Theme.SmartScreens">
+        <item name="android:windowBackground">@drawable/bg_gradient_primary</item>
+        <item name="android:statusBarColor">@color/primary_variant</item>
+        <item name="android:navigationBarColor">@color/primary_variant</item>
+    </style>
+</resources>

@@ -1,0 +1,81 @@
+<resources>
+    <!-- General / App Branding -->
+    <string name="app_name">SmartScreens</string>
+    <string name="app_tagline">Simple. Smart. Connected.</string>
+    <string name="app_logo_description">SmartScreens Application Logo</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_loading">Initializing SmartScreens...</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your SmartScreens account</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="link_forgot_password">Forgot Password?</string>
+    <string name="text_no_account">Don\'t have an account? </string>
+    <string name="link_register">Register here</string>
+    <string name="demo_account_hint">Demo Login: demo@example.com / 123456</string>
+    <string name="error_empty_credentials">Please enter both email and password.</string>
+    <string name="error_invalid_credentials">Invalid email or password. Please try again or use the demo credentials.</string>
+    <string name="login_success">Login successful! Welcome back.</string>
+
+    <!-- Registration Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Register to get started with SmartScreens</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_register">Create Account</string>
+    <string name="text_have_account">Already have an account? </string>
+    <string name="link_login">Login here</string>
+    <string name="security_note">Note: Classroom simulation — credentials stored locally.</string>
+    <string name="error_empty_fields">All fields are required.</string>
+    <string name="error_short_name">Full name must be at least 3 characters long.</string>
+    <string name="error_invalid_email">Please enter a valid email address.</string>
+    <string name="error_short_password">Password must be at least 6 characters long.</string>
+    <string name="error_password_mismatch">Passwords do not match.</string>
+    <string name="register_success">Account registered successfully! Please log in.</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_password_title">Forgot Password?</string>
+    <string name="forgot_password_subtitle">Enter your registered email address to verify your account and reset your password.</string>
+    <string name="btn_recover_password">Verify &amp; Continue</string>
+    <string name="link_back_to_login">Back to Login</string>
+    <string name="error_email_not_found">No registered account found with this email. (Try demo@example.com)</string>
+    <string name="forgot_success_simulated">Account verified! Proceeding to reset password (Classroom simulation).</string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_subtitle">Enter and confirm your new password below.</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="btn_reset_password">Save New Password</string>
+    <string name="reset_success">Password updated successfully! Please log in with your new password.</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_welcome">Welcome, %1$s!</string>
+    <string name="dashboard_subtitle">Select a module below to get started</string>
+    <string name="module_home">Home</string>
+    <string name="module_tools">Tools</string>
+    <string name="module_history">History</string>
+    <string name="module_profile">Profile</string>
+    <string name="module_home_desc">Main control center</string>
+    <string name="module_tools_desc">Utilities and tools</string>
+    <string name="module_history_desc">Activity logs and stats</string>
+    <string name="module_profile_desc">Account &amp; preferences</string>
+    <string name="toast_module_clicked">%1$s module opened successfully.</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">User Profile</string>
+    <string name="profile_avatar_desc">User Profile Avatar</string>
+    <string name="label_account_details">Account Information</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_account_status">Account Type</string>
+    <string name="value_account_status">Student Demo User</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_back_to_dashboard">Back to Dashboard</string>
+    <string name="logout_confirmation">You have been logged out successfully.</string>
+</resources>
